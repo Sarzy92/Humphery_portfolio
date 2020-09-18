@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Humphery Ojo</title>
+    <link>https://Sarzy92.github.io/Humphery_portfolio/post/</link>
+    <description>Recent content in Projects on Humphery Ojo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://Sarzy92.github.io/Humphery_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1; Bike Sharing Demand Model</title>
+      <link>https://Sarzy92.github.io/Humphery_portfolio/post/project-1/</link>
+      <pubDate>Sat, 05 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://Sarzy92.github.io/Humphery_portfolio/post/project-1/</guid>
+      <description>Data set from UCI Machine Learning Repository. It specifically focuses on forecasting the bike rental demand in the capital bikeshare program combining historical usage pattern with weather data. Then I Carried out series of exploration on the data set specifically a correlation heat map which showed the relationship between the weather data giving an indication of which attributes to drop during Modelling. Using a linear regression model from sklearn we got a mean squared error(MSE) of 0.</description>
+    </item>
+    
+    <item>
+      <title> Project 2; Red Wine Quality</title>
+      <link>https://Sarzy92.github.io/Humphery_portfolio/post/project-2/</link>
+      <pubDate>Sat, 29 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Sarzy92.github.io/Humphery_portfolio/post/project-2/</guid>
+      <description>First I got my data set from UCI Machine Learning Repository. The data set had 1599 entries with no missing values. Then I Carried out series of exploration on the data set. After several explorations, the physiochemical properties that increases the quality of red wine are; * Alcohol * Sulphates and * Citric Acid Then I used Machine Learning techniques to predict the quality of the wine. After series of testing with 3 different models in classification, random forest classification gave the best result with 0.</description>
+    </item>
+    
+    <item>
+      <title>Project 3;A Research Analysis on Africa Economy Crises</title>
+      <link>https://Sarzy92.github.io/Humphery_portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Sarzy92.github.io/Humphery_portfolio/post/project-3/</guid>
+      <description>First I got the data set from Kaggle. It specifically focuses on the Banking, Debt, Financial, Inflation and Systemic Crises that occurred, from 1860 to 2014, in 13 African countries, including: Algeria, Angola, Central African Republic, Ivory Coast, Egypt, Kenya, Mauritius, Morocco, Nigeria, South Africa, Tunisia, Zambia and Zimbabwe. Then I Carried out series of exploration on the data set. Central African Republic followed by Zimbabwe and Kenya showed high level of systemic crisis Exploratory data analysis was only carried out on this data set with simple explorations with no deep explorations and model creation as it was the base on instructions given which was; to use EDA to conclude on Africa&amp;rsquo;s Economy in relation to systemic and banking crisis.</description>
+    </item>
+    
+  </channel>
+</rss>
